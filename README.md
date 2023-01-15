@@ -5,7 +5,7 @@ This project is part of the research comparing the Reactive implementation to th
 As part of the conclusion, Webflux would be more efficient than the Servlet one in low volume traffic, 
 but could not tell in the high volume because it doesn't open the connection pool size configuration which was 1000.
 
-On the other hand, Spring boot 3 with native image and virtual thread are coming out so the battle would be more intensive. :)
+On the other hand, Spring boot 3 with native image and Java virtual thread have been coming out so the battle would be more intensive. :)
 
 ## For 500 request/second
 Servlet
