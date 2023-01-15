@@ -63,3 +63,5 @@ Webflux
 | 49          | 213            | 8291.384                     | 9               | 3773            | 335            | 511             | 481                   | 9.62                                | 2701           | 10             | 5                | 5                 |
 | 49          | 213            | 6036.773                     | 34              | 2017            | 214            | 326             | 93                    | 1.86                                | 1545           | 10             | 3                | 3                 |
 | 49          | 213            | 5702.884                     | 44              | 1390            | 268            | 334             | 729                   | 14.58                               | 1844           | 10             | 4                | 4                 |
+
+The golang source file in this project is the request sender, and the spring applications for this test were the examples from microsoft azure site.
